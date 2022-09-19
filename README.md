@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BLADESREVENGE
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML, CSS & JS
+- 💞️ I’m looking to collaborate on Websites
+- 📫 How to reach me: You can reach me via discord: blades#7389
