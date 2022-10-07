@@ -8,5 +8,3 @@
 - 🥅 2022 Goals: Learn web development so I can create good websites.
 - ⚡ Fun fact: I love to read
 - Contact: dg.qndt@gmail.com or blades#7389 on discord
-
-### Technologies and Tools:
