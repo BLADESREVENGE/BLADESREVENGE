@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/e3Eza4A1F4eYXpGJkoBdCcGm_jFPZ431p7oCFLME2rI/rs:fit:508:339:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L3NpZGUtdmlldy1w/aWN0dXJlLW9mLXN0/dWRpby13b3JrcGxh/Y2Utd2l0aC1ibGFu/ay1ub3RlYm9vay1s/YXB0b3AtcGljdHVy/ZS1pZDY5NTEzNzY5/Mj9rPTYmbT02OTUx/Mzc2OTImcz0xNzA2/NjdhJnc9MCZoPVFJ/YjJhS3oySjg5TEpW/ZjR0TF90aWpkVG9I/QURGTnMzUF9wenBz/ZHFUelk9)](https://bladesrevenge.github.io)
+[![MasterHead]([https://imgs.search.brave.com/e3Eza4A1F4eYXpGJkoBdCcGm_jFPZ431p7oCFLME2rI/rs:fit:508:339:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L3NpZGUtdmlldy1w/aWN0dXJlLW9mLXN0/dWRpby13b3JrcGxh/Y2Utd2l0aC1ibGFu/ay1ub3RlYm9vay1s/YXB0b3AtcGljdHVy/ZS1pZDY5NTEzNzY5/Mj9rPTYmbT02OTUx/Mzc2OTImcz0xNzA2/NjdhJnc9MCZoPVFJ/YjJhS3oySjg5TEpW/ZjR0TF90aWpkVG9I/QURGTnMzUF9wenBz/ZHFUelk9)](https://imgs.search.brave.com/PJ9Eh-70bDwrMvN2sakdCtkKAFvfprtbzlMJWEMMbr8/rs:fit:910:480:1/g:ce/aHR0cHM6Ly9hay5w/aWNkbi5uZXQvc2h1/dHRlcnN0b2NrL3Zp/ZGVvcy8yNTI3OTQ4/MS90aHVtYi8xLmpw/Zw)](https://bladesrevenge.github.io)
 <h1 align="center">Hi 👋, I'm BLADESREVENGE</h1>
 <h3 align="center">A passionate frontend web developer from the Netherlands</h3>
 
