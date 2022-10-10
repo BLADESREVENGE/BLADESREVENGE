@@ -1,4 +1,4 @@
-[![MasterHead]([https://imgs.search.brave.com/PJ9Eh-70bDwrMvN2sakdCtkKAFvfprtbzlMJWEMMbr8/rs:fit:910:480:1/g:ce/aHR0cHM6Ly9hay5w/aWNkbi5uZXQvc2h1/dHRlcnN0b2NrL3Zp/ZGVvcy8yNTI3OTQ4/MS90aHVtYi8xLmpw/Zw])(https://bladesrevenge.github.io)
+[![MasterHead][(https://imgs.search.brave.com/PJ9Eh-70bDwrMvN2sakdCtkKAFvfprtbzlMJWEMMbr8/rs:fit:910:480:1/g:ce/aHR0cHM6Ly9hay5w/aWNkbi5uZXQvc2h1/dHRlcnN0b2NrL3Zp/ZGVvcy8yNTI3OTQ4/MS90aHVtYi8xLmpw/Zw)](https://bladesrevenge.github.io)
 <h1 align="center">Hi 👋, I'm BLADESREVENGE</h1>
 <h3 align="center">A passionate frontend web developer from the Netherlands</h3>
 
