@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BLADESREVENGE</h1>
-<h3 align="center">A passionate frontend web developer from the Netherlands</h3>
+<h3 align="center">A passionate front-end web developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on [my personal website](https://github.com/BLADESREVENGE/bladesrevenge.github.io)
 
