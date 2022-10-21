@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS & JS**
 
-- 👨‍💻 All of my projects are available at [BLADESREVENGE](/BLADESREVENGE)
+- 👨‍💻 All of my projects are available at [BLADESREVENGE](/https://github.com/BLADESREVENGE)
 
 - 📫 How to reach me **dg.qndt@gmail.com**
 
