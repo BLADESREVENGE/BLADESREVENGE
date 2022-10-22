@@ -3,7 +3,7 @@
 </h1>
 
 <p align = "center">
-    Currently learning game programming, along with digital art and music composition.
+    Currently learning web development! 
 </p>
 
 ---
